@@ -27,3 +27,13 @@ let circle = radius * 2 * PI //number
 
 console.log(circle);
 
+
+//Dichiara una variabile chiamata name e
+//assegnale il valore “Carlo”.
+//Successivamente, modifica il valore della variabile in “Marco”.
+//Stampa il nuovo valore in console.
+
+let nome = 'Carlo'//string
+nome ='Marco' // string
+
+console.log(nome);
