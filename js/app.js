@@ -15,3 +15,15 @@ console.log(PI)
 
 //Succede che dall' ispector avrò un errore ad una determinata riga, poichè una volta assegnato un valore ad una costante non si può riassegnarli un altro valore.
 
+
+
+
+//Dichiara una variabile chiamata radius e assegnale il valore 8.
+//Moltiplica radius x 2 e x PI e assegna il valore a una variabile di nome circle.
+//Stampa il valore della variabile circle in console.
+
+let radius= 8; //number
+let circle = radius * 2 * PI //number
+
+console.log(circle);
+
