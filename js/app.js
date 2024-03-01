@@ -8,6 +8,10 @@ console.log(number)
 
 const PI = 3.14; //number
 
+
 console.log(PI)
 
-//
+//Prova ad assegnare alla costante chiamata PI il valore di 3.1416. Sai dire cosa succede?
+
+//Succede che dall' ispector avrò un errore ad una determinata riga, poichè una volta assegnato un valore ad una costante non si può riassegnarli un altro valore.
+
